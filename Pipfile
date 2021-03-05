@@ -16,6 +16,7 @@ scikit-learn = "*"
 folium = "*"
 matplotlib = "*"
 scipy = "*"
+geopy = "*"
 
 [requires]
 python_version = "3.7"
