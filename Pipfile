@@ -12,6 +12,10 @@ numpy = "*"
 ipykernel = "*"
 lxml = "*"
 geocoder = "*"
+scikit-learn = "*"
+folium = "*"
+matplotlib = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
