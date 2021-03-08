@@ -17,6 +17,7 @@ folium = "*"
 matplotlib = "*"
 scipy = "*"
 geopy = "*"
+shapely = {file = "https://files.pythonhosted.org/packages/00/b6/71bd30edeab05060e8fbfb16bf2a074364b037615cd823945e0052d26484/Shapely-1.7.1-cp37-cp37m-win_amd64.whl"}
 
 [requires]
 python_version = "3.7"
